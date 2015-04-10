@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IEEE-Evento</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">drawer Open</string>
+	<string name="drawer_close">drawer Close</string>
+    <string name="metaioSDKSignature">UsfuwuXq0dkQtzBwYzT5fditoX8jtTk6XwZO5daZ1w0=</string>
+
+</resources>

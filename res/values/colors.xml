@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- http://www.google.com/design/spec/style/color.html#color-ui-color-palette -->
+    <color name="material_blue_500">#5677fc</color>
+    
+    <color name="red">#FFC93437</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+    
+    
+    <color name="light_blue">#33B5E5</color>
+    <color name="light_red">#FF4444</color>
+    <color name="light_orange">#FFBB33</color>
+    <color name="light_green">#99CC00</color>
+    <color name="light_violet">#33B5E5</color>
+    <color name="dark_blue">#0099CC</color>
+    <color name="dark_red">#CC0000</color>
+    <color name="dark_orange">#FF8800</color>
+    <color name="dark_green">#669900</color>
+    <color name="dark_violet">#9933CC</color>
+    
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="milky">#fafaff</color>
+    <color name="grey">#353434</color>
+    <color name="lightgrey">#838181</color>
+</resources>
