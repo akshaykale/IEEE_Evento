@@ -14,6 +14,13 @@ Specification of App:
 4)Database Server : MongoLab Sandbox
 
 
+Important Links:
+------------------
+Demo Video:    https://youtu.be/XFrHSjFSerk
+
+Intro Video:    https://youtu.be/tji4GfpUCZE
+
+
 App Installation :
 --------------------
 
@@ -43,10 +50,7 @@ Handling of App(Feautures) :
 
 															Thank You ....
 															
-Important Links:
 
-Demo Video:    https://youtu.be/XFrHSjFSerk
-Intro Video:    https://youtu.be/tji4GfpUCZE
 
 
 															
