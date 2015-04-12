@@ -20,6 +20,8 @@ Demo Video:    https://youtu.be/XFrHSjFSerk
 
 Intro Video:    https://youtu.be/tji4GfpUCZE
 
+.apk link:    https://onedrive.live.com/redir?resid=6B5CCA4A2D2FF74A!146&authkey=!ABBsNVmB-NPeySY&ithint=file%2capk
+
 
 App Installation :
 --------------------
